@@ -10,7 +10,7 @@ This project utilizes Azure services to perform data analytics on Olympic data s
 - **Azure Databricks**: Apache Spark-based data transformation tool for processing data and storing it in Azure Data Lake Gen2.
 - **Azure Synapse Analytics**: Analytics platform for running SQL queries and notebooks to gain insights from the data.
 
-  <img src="azure-data.jpg" width="400" height="700">
+  <img src="azure-data.jpg" width="700" height="300">
 
 ## Project Setup
 
@@ -35,6 +35,9 @@ This project utilizes Azure services to perform data analytics on Olympic data s
 
 6. **Pipeline Validation**:
     - Validate and debug pipelines in Azure Data Factory.
+    - Below is the pipeline created in Azure Data Factory for the data transfer process
+      <img src="pipeline.png" width="800" height="400">
+ 
 
 ## Usage
 
