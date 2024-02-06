@@ -10,6 +10,8 @@ This project utilizes Azure services to perform data analytics on Olympic data s
 - **Azure Databricks**: Apache Spark-based data transformation tool for processing data and storing it in Azure Data Lake Gen2.
 - **Azure Synapse Analytics**: Analytics platform for running SQL queries and notebooks to gain insights from the data.
 
+  <img src="azure-data.jpg" width="400" height="700">
+
 ## Project Setup
 
 1. **Azure Account Setup**:
